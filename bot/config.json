@@ -1,8 +1,0 @@
-{
-  "_comentario": "Configuração do calendário do RP. Ajuste os valores abaixo para calibrar a data do servidor.",
-
-  "_comentario_dataInicioReal": "Data real (AAAA-MM-DD) em que o ano do servidor era igual a 'anoInicio', no dia 1 daquele mês real.",
-  "dataInicioReal": "2026-09-01",
-  "anoInicio": 1953
-
-}
