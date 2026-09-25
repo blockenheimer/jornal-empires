@@ -1,0 +1,19 @@
+{
+  "name": "discord-jornal-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js",
+    "test": "node tests/aternos-status.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^3.2.3",
+    "discord.js": "^14.27.0",
+    "dotenv": "^18.0.3"
+  }
+}
